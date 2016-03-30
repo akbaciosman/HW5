@@ -34,5 +34,4 @@ driverPart1,driverPart2,driverPart3 Main classında olusturularak test edilmesi 
 2 - Class Diagramlari eklendi
 3 - UseCase diagrami eklendi
 4 - Maven Projesi olarak olusturuldu
-5 - GitHub a eklenecek //odev teslim tarihi gectikten sonra
 
